@@ -1,0 +1,30 @@
+.container{
+	
+	background-position: center;
+}
+
+
+.nav, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover,
+						.nav-tabs > li.active > a:focus, .nav-tabs > li > a {
+							color: black;
+							padding: auto;
+							margin: 20px;
+						}
+
+.col-md-12{
+	color: black;
+
+	
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      			width: 100%;
+      			margin: auto;
+  		}
+  
+li a {
+  
+   
+    background-color: #dddddd;
+}
